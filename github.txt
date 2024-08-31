@@ -1,0 +1,16 @@
+git --version     : to check version
+git init          : to initialize git
+git status        : to check status
+git add .         : to add all files
+git add filename.formate   : to add a specific file
+git commit -m "version"    : to commit file(version controlling) 
+git branch                 : to see branches
+git branch name            : to add a branch
+git checkout name          : to switch branch
+git config --global user.email"email address"    : to configure cmd with git 
+git merge name      : to merge branches
+git remote   : to check remote status of remote repo
+git remote add origin link  : to add a remote repo
+gir push orgin master :     to push files to github
+
+
